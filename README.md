@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **sachithgamage2310@gmail.com** For Collaboration/Project o
 - 😄 **Pronouns:** He / Him
 - ⚡ **Fun fact:** I love turning client ideas into powerful digital solutions 💻✨
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100093867804586) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sachithgamage) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sachithgamage650) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachithgamage2310@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100093867804586) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachithgamage/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sachithgamage650) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachithgamage2310@gmail.com) 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
