@@ -1,18 +1,25 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SACHITH%20GAMAGE&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Web%20Developer%20|%20Digital%20Solutions%20Architect&descAlignY=51&descAlign=50"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SACHITH%20GAMAGE&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Web%20Developer%20|%20Graphic%20Designer%20|%20Digital%20Solutions%20Architect&descAlignY=51&descAlign=50"/>
+<br/>
+
+
+<h3 align="center">
+🚀 Building modern web solutions & creative digital designs
+</h3>
+
 
 <br>
 
-<!-- Static Professional Header as Backup -->
+
 <h1>🚀 Professional Web Developer</h1>
 <h3>💼 E-Commerce & System Specialist | 🎨 UI/UX Design Expert</h3>
 <h3>🌍 Open to Global Opportunities | ✨ Turning Ideas Into Reality</h3>
 
 <br>
 
-<!-- Social Badges with Animation -->
+
 <p align="center">
   <a href="mailto:sachithgamage2310@gmail.com">
     <img src="https://img.shields.io/badge/📧_HIRE_ME-sachithgamage2310%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
@@ -25,7 +32,7 @@
   </a>
 </p>
 
-<!-- Visitor Counter -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SachithGamage12&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
@@ -84,7 +91,7 @@ console.log("Ready to deliver: " + developer.expertise);
   animation: continuous-learning infinite;
 }
 
-/* Always delivering pixel-perfect results */
+
 ```
 
 #### 🏆 **Proven Results:**
