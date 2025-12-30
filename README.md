@@ -150,7 +150,7 @@ console.log("Ready to deliver: " + developer.expertise);
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-### **DevOps & Tools** 🔧
+### **Tools** 🔧
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -222,6 +222,155 @@ console.log("Ready to deliver: " + developer.expertise);
 </table>
 
 ---
+---
+
+<div align="center">
+
+## 🚀 『 LIVE PROJECTS SHOWCASE 』
+
+### **Real-World Solutions Delivered & Running**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 [Delwaththa Farm](https://delwaththafarm.com)
+<a href="https://delwaththafarm.com" target="_blank">
+<img src="https://img.shields.io/badge/🔗_LIVE_DEMO-Visit_Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000"/>
+</a>
+
+**Agricultural E-Commerce Platform**
+- 🛒 Full-featured online marketplace
+- 🌱 Farm-to-consumer solution
+- 📱 Mobile-responsive design
+- 💳 Secure payment integration
+
+**Tech Stack:** PHP, MySQL, JavaScript, Bootstrap
+
+---
+
+### 🏪 [Markets.lk](https://markets.lk)
+<a href="https://markets.lk" target="_blank">
+<img src="https://img.shields.io/badge/🔗_LIVE_DEMO-Visit_Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000"/>
+</a>
+
+**Multi-Vendor Marketplace**
+- 🛍️ Comprehensive e-commerce solution
+- 👥 Multi-vendor management system
+- 🔐 Advanced security features
+- 📊 Analytics dashboard
+
+**Tech Stack:** Laravel, MySQL, Vue.js, Tailwind CSS
+
+---
+
+### 🚗 [Family Road Track](https://familyroadtrack.com)
+<a href="https://familyroadtrack.com" target="_blank">
+<img src="https://img.shields.io/badge/🔗_LIVE_DEMO-Visit_Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000"/>
+</a>
+
+**Family Safety Tracking System**
+- 📍 Real-time GPS tracking
+- 👨‍👩‍👧‍👦 Family member monitoring
+- 🔔 Instant notifications
+- 🗺️ Route history & analytics
+
+**Tech Stack:** React, Node.js, MongoDB, Firebase
+
+---
+
+### 🏛️ [Grand Guardian Organization](https://grandguardian.org)
+<a href="https://grandguardian.org" target="_blank">
+<img src="https://img.shields.io/badge/🔗_LIVE_DEMO-Visit_Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000"/>
+</a>
+
+**Non-Profit Organization Portal**
+- 🤝 Community engagement platform
+- 📰 News & events management
+- 💝 Donation system integration
+- 📧 Newsletter automation
+
+**Tech Stack:** WordPress, PHP, MySQL, JavaScript
+
+</td>
+<td width="50%" valign="top">
+
+### 🏨 [Hotel Grand Guardian](https://hotelgrandguardian.org)
+<a href="https://hotelgrandguardian.org" target="_blank">
+<img src="https://img.shields.io/badge/🔗_LIVE_DEMO-Visit_Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000"/>
+</a>
+
+**Hotel Booking & Management System**
+- 🛏️ Online reservation system
+- 💳 Payment gateway integration
+- 📅 Availability calendar
+- ⭐ Review & rating system
+
+**Tech Stack:** PHP, MySQL, JavaScript, Bootstrap
+
+---
+
+### 💊 [Daily Health.lk](https://dailyhealth.lk)
+<a href="https://dailyhealth.lk" target="_blank">
+<img src="https://img.shields.io/badge/🔗_LIVE_DEMO-Visit_Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000"/>
+</a>
+
+**Health & Wellness Platform**
+- 🏥 Medical appointment booking
+- 📝 Health records management
+- 💬 Telemedicine integration
+- 📊 Health tracking dashboard
+
+**Tech Stack:** Laravel, MySQL, Vue.js, Tailwind CSS
+
+---
+
+### 🎓 [Edosthara.lk](https://edosthara.lk)
+<a href="https://edosthara.lk" target="_blank">
+<img src="https://img.shields.io/badge/🔗_LIVE_DEMO-Visit_Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000"/>
+</a>
+
+**Educational Learning Platform**
+- 📚 Online course management
+- 👨‍🎓 Student portal & enrollment
+- 📹 Video streaming integration
+- 📝 Assessment & grading system
+
+**Tech Stack:** Next.js, Node.js, MongoDB, React
+
+---
+
+### 📊 **Project Statistics**
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/domain.png" width="40px"/>
+<br><strong>7+</strong>
+<br>Live Client Websites
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/user.png" width="40px"/>
+<br><strong>10,000+</strong>
+<br>Active Users
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/traffic-light.png" width="40px"/>
+<br><strong>99.9%</strong>
+<br>Uptime
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+---
+
+
 
 <div align="center">
 
