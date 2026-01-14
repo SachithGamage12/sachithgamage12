@@ -1,16 +1,7 @@
 <div align="center">
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SACHITH%20GAMAGE&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Web%20%26%20Application%20Developer%20%7C%20PHP%20%7C%20React%20%7C%20WordPress%20%7C%20JavaScript%20%7C%20Figma&descAlignY=51&descAlign=50"/>
-<br/>
 
-
-
-
-
-
-
-<br>
 
 
 <h1>🚀 Full Stack Web & Application Developer</h1>
