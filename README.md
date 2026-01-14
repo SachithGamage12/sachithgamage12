@@ -13,9 +13,10 @@
 <br>
 
 
-<h1>🚀 Professional Web Developer</h1>
-<h3>💼 E-Commerce & System Specialist | 🎨 UI/UX Design Expert</h3>
-<h3>🌍 Open to Global Opportunities | ✨ Turning Ideas Into Reality</h3>
+<h1>🚀 Full Stack Web & Application Developer</h1>
+<h3>💼 E-Commerce Solutions | 🛠️ System Development | 🎨 UI/UX Focused</h3>
+<h3>🌍 Open to Relocation & Global Roles | ✨ Building Scalable, User-First Experiences</h3>
+
 
 <br>
 
@@ -27,7 +28,7 @@
   <a href="https://www.linkedin.com/in/sachithgamage/">
     <img src="https://img.shields.io/badge/LinkedIn-CONNECT_NOW-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
   </a>
-  <a href="#">
+  <a href="sachithdev.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-VIEW_PROJECTS-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000"/>
   </a>
 </p>
@@ -51,17 +52,18 @@
 <tr>
 <td width="50%" valign="top">
 
-### 💎 **TECHNICAL MASTERY**
-
-```javascript
 const developer = {
   code: ["PHP", "JavaScript", "Java", "Kotlin"],
-  frameworks: ["Laravel", "Next.js", "Node.js"],
+  frameworks: ["Laravel", "React", "Next.js", "Node.js"],
   databases: ["MySQL", "MongoDB", "Firebase"],
-  expertise: "Full-Stack Excellence",
+  tools: ["Git", "Docker", "Figma", "WordPress"],
+  styling: ["Tailwind CSS", "Bootstrap", "CSS3"],
+  expertise: "Full-Stack Web & Application Development",
   yearsActive: "2020 - Present",
-  projectsCompleted: "50+ Successful Launches"
+  projectsCompleted: "50+ Real-World Projects Delivered",
+  openTo: ["Relocation", "Visa Sponsorship", "Global Teams"]
 };
+
 
 console.log("Ready to deliver: " + developer.expertise);
 ```
@@ -462,18 +464,7 @@ quality: "Premium Grade"
 <br><b>Connect</b>
 </a>
 </td>
-<td align="center" width="25%">
-<a href="https://web.facebook.com/profile.php?id=100093867804586">
-<img src="https://img.icons8.com/fluency/96/000000/facebook-new.png" width="80px" alt="Facebook"/>
-<br><b>Follow</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://www.youtube.com/@sachithgamage650">
-<img src="https://img.icons8.com/fluency/96/000000/youtube-play.png" width="80px" alt="YouTube"/>
-<br><b>Subscribe</b>
-</a>
-</td>
+
 </tr>
 </table>
 
@@ -498,9 +489,11 @@ quality: "Premium Grade"
 
 <br>
 
-### 🎯 **SPECIALIZED IN:**
-**E-Commerce Development** • **Web Applications** • **System Architecture** • **UI/UX Design** • **API Development** • **Database Optimization**
+🎯 Specialized In
 
+🔹 E-Commerce Platforms • 🔹 Web & Application Development
+🔹 System Architecture & Dashboards • 🔹 UI/UX Design & Prototyping
+🔹 RESTful API Development • 🔹 Database Design & Optimization
 <br>
 
 ### ⭐ **If you like my work, please star my repositories!**
@@ -518,7 +511,10 @@ quality: "Premium Grade"
 
 <div align="center">
 
-### 🏆 **Available For:** Full-time Positions • Contract Work • Freelance Projects • Relocation Opportunities • Remote Work
+🏆 Available For
+
+🌍 International Relocation • 📦 Visa-Sponsored Positions
+🏢 On-Site Full-Time Roles • 🤝 Long-Term Global Projects
 
 **⚡ Fun Fact:** I transform coffee into code and ideas into digital solutions! ☕💻✨
 
