@@ -4,7 +4,7 @@
 
 
 
-<h1>🚀 Full Stack Web & Application Developer</h1>
+<h1>🚀 Full Stack Web Developer</h1>
 <h3>💼 E-Commerce Solutions | 🛠️ System Development | 🎨 UI/UX Focused</h3>
 <h3>🌍 Open to Relocation & Global Roles | ✨ Building Scalable, User-First Experiences</h3>
 
