@@ -171,7 +171,7 @@ console.log("Ready to deliver: " + developer.expertise);
 <tr>
 <td width="25%" align="center">
 <img src="https://img.icons8.com/color/96/000000/trophy.png" width="60px"/>
-<br><strong>50+</strong>
+<br><strong>20+</strong>
 <br>Projects Completed
 </td>
 <td width="25%" align="center">
@@ -341,7 +341,7 @@ console.log("Ready to deliver: " + developer.expertise);
 <tr>
 <td align="center">
 <img src="https://img.icons8.com/color/48/000000/domain.png" width="40px"/>
-<br><strong>7+</strong>
+<br><strong>15+</strong>
 <br>Live Client Websites
 </td>
 <td align="center">
