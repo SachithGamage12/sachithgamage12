@@ -2,6 +2,7 @@
 **Full-Stack Web Developer**
 
 Sri Lanka • Open to UK relocation 
+
 📧 sachithgamage2310@gmail.com  
 🔗 https://www.linkedin.com/in/sachithgamage  
 🌐 https://sachithgamage.dev  
