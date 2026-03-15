@@ -1,7 +1,7 @@
 # Sachith Gamage  
 **Full-Stack Web Developer**
 
-Sri Lanka • Open to UK Relocation & Skilled Worker Sponsorship  
+Sri Lanka • Open to relocation and long-term international roles.
 📧 sachithgamage2310@gmail.com  
 🔗 https://www.linkedin.com/in/sachithgamage  
 🌐 https://sachithgamage.dev  
