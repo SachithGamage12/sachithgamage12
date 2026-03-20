@@ -1,7 +1,7 @@
 # Sachith Gamage  
-**Full-Stack Web Developer**
+**Full Stack Web Developer**
 
-Sri Lanka • Open to UK relocation 
+Sri Lanka • Open to UK relocation  
 
 📧 sachithgamage2310@gmail.com  
 🔗 https://www.linkedin.com/in/sachithgamage  
@@ -11,9 +11,11 @@ Sri Lanka • Open to UK relocation
 
 ## Profile
 
-Full-Stack Web Developer experienced in designing and delivering custom web applications for real-world business environments. Built production systems across hospitality, healthcare, retail, and e-commerce sectors including booking platforms, POS solutions, and operational dashboards.
+Full Stack Web Developer with experience delivering **20+ production web applications** across hospitality, healthcare, retail, and e-commerce sectors.
 
-I combine strong engineering fundamentals with **AI-assisted development workflows** to accelerate delivery, improve debugging, and maintain clean, scalable codebases.
+Specialised in building booking systems, POS platforms, and operational dashboards that improve business workflows and reduce manual processes.
+
+I combine strong engineering fundamentals with modern development practices to deliver reliable, scalable, and maintainable solutions.
 
 ---
 
@@ -24,7 +26,7 @@ I combine strong engineering fundamentals with **AI-assisted development workflo
 **Databases:** MySQL, MongoDB  
 **APIs & Development:** RESTful APIs, API Integration  
 **Tools & Deployment:** Git, GitHub, cPanel, VPS Deployment  
-**Analytics & Design:** Google Analytics (GA4), SEO, Google AdSense, Figma  
+**Analytics & Design:** Google Analytics (GA4), SEO, Figma  
 
 ---
 
@@ -33,60 +35,57 @@ I combine strong engineering fundamentals with **AI-assisted development workflo
 ### Hotel Management & Booking System  
 Custom-built multi-property hotel operations platform supporting reservations, billing, reporting, and workflow automation.
 
-**Tech:** PHP (Custom MVC Architecture), MySQL, JavaScript, Bootstrap  
-**Role:** End-to-end delivery — requirements gathering, planning, UI/UX design, full-stack development, testing/debugging, QA, deployment, and post-launch support.
+**Tech:** PHP (Custom MVC), MySQL, JavaScript, Bootstrap  
+**Role:** End-to-end delivery — system design, development, deployment, and support  
 
 ---
 
 ### Markets.lk – Multi-Vendor Marketplace  
-Marketplace platform enabling product management, vendor workflows, and analytics integration.
+Marketplace platform supporting product listings, vendor workflows, and search/filter functionality.
 
-**Tech:** PHP (Custom MVC Architecture), MySQL, JavaScript  
-**Role:** End-to-end delivery — system planning, database design, development, testing, QA, deployment, and ongoing improvements.
+**Tech:** PHP (Custom MVC), MySQL, JavaScript  
+**Role:** End-to-end delivery — database design, development, deployment, and optimisation  
 
 ---
 
 ### DailyHealth.lk – Healthcare Platform  
-Appointment management and informational health platform designed to streamline booking workflows.
+Appointment booking and health content platform designed to manage real-time scheduling workflows.
 
-**Tech:** PHP (Custom MVC Architecture), MySQL, JavaScript  
-**Role:** End-to-end delivery — booking workflow design, admin dashboard development, testing/debugging, QA, and production deployment.
+**Tech:** PHP (Custom MVC), MySQL, JavaScript  
+**Role:** Booking system design, admin dashboard development, and deployment  
 
 ---
 
 ### DelwaththaFarm.com – Agricultural E-Commerce  
-Direct-to-consumer commerce platform for agricultural products with responsive storefront and order management.
+Direct-to-consumer commerce platform with responsive UI and order handling system.
 
-**Tech:** PHP (Custom MVC Architecture), MySQL, Bootstrap  
-**Role:** End-to-end delivery — UI design, development, testing, QA, deployment, and maintenance support.
+**Tech:** PHP (Custom MVC), MySQL, Bootstrap  
+**Role:** UI design, development, deployment, and maintenance  
 
 ---
 
 ## Development Approach
 
-My workflow focuses on practical delivery and maintainability:
-
-- Plan and design systems around real operational needs  
-- Build structured applications using MVC principles  
-- Use AI-assisted tools to improve productivity, debugging, and code quality  
-- Deliver stable deployments suitable for long-term business use  
+- Build systems based on real business requirements  
+- Use structured architectures (MVC) for maintainability  
+- Focus on performance, usability, and long-term stability  
+- Deliver complete solutions from concept to production  
 
 ---
 
 ## Currently Seeking
 
-Opportunities where I can contribute to:
+Full Stack Web Developer opportunities focused on:
 
-- Full-stack application development  
-- Business-critical web platforms  
-- Scalable system design  
-- Collaborative engineering teams  
+- Business-critical web applications  
+- Scalable system development  
+- Collaborative engineering environments  
 
-Open to relocation and long-term international roles.
+Open to UK relocation and long-term roles.
 
 ---
 
 ## Contact
 
 📧 sachithgamage2310@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/sachithgamage
+🔗 LinkedIn: https://www.linkedin.com/in/sachithgamage  
