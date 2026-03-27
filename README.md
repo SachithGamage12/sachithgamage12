@@ -1,7 +1,7 @@
 # Sachith Gamage  
 **Full Stack Web Developer**
 
-Sri Lanka • Open to UK relocation  
+ 
 
 📧 sachithgamage2310@gmail.com  
 🔗 https://www.linkedin.com/in/sachithgamage  
@@ -81,7 +81,7 @@ Full Stack Web Developer opportunities focused on:
 - Scalable system development  
 - Collaborative engineering environments  
 
-Open to UK relocation and long-term roles.
+
 
 ---
 
