@@ -1,5 +1,5 @@
 # Sachith Gamage  
-**Full Stack Web Developer**
+**Full Stack Software Developer**
 
  
 
@@ -11,7 +11,7 @@
 
 ## Profile
 
-Full Stack Web Developer with experience delivering **20+ production web applications** across hospitality, healthcare, retail, and e-commerce sectors.
+Full Stack Software Developer with experience delivering **20+ production web applications** across hospitality, healthcare, retail, and e-commerce sectors.
 
 Specialised in building booking systems, POS platforms, and operational dashboards that improve business workflows and reduce manual processes.
 
