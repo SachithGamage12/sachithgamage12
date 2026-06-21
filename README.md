@@ -75,7 +75,7 @@ Direct-to-consumer commerce platform with responsive UI and order handling syste
 
 ## Currently Seeking
 
-Full Stack Web Developer opportunities focused on:
+Full Stack Software Developer opportunities focused on:
 
 - Business-critical web applications  
 - Scalable system development  
